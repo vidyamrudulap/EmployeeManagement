@@ -1,0 +1,18 @@
+# Django-specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+media
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
