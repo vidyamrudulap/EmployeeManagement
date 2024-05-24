@@ -8,7 +8,7 @@ This application is built using Django, In this application we can add, remove, 
 Clone the project
 
 ```bash
-  git clone https://github.com/Shivakumar1V/Office-Employee-Management-System-using-Django
+  git clone https://github.com/vidyamrudulap/EmployeeManagementUsingDjango/
 ```
 
 Install dependencies
